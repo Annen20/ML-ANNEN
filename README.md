@@ -17,7 +17,7 @@ Created December 11, 2025
 c. 2025 Annen20
 
 
-# Paper 2 
+# Whitepaper 2 
 
 # Temporal Renormalization: Solving the Horizon Explosion
 
