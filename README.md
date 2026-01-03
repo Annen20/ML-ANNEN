@@ -19,7 +19,7 @@ c. 2025 Annen20
 
 # Paper 2 
 
-# Temporal Renormalization: Solving the Horizon Explosion
+# Temporal Renormalization Solving the Horizon Explosion
 
 **A new computational primitive for long-horizon reasoning.**
 
